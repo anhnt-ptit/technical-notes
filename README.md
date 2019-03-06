@@ -14,3 +14,5 @@ https://github.com/mbhave?tab=followers
 https://github.com/patsuyash
 https://github.com/Grom33
 https://github.com/benjchristensen (facebook)
+https://github.com/h-hub
+https://github.com/JakeWharton
