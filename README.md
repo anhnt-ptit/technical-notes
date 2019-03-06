@@ -16,3 +16,8 @@ https://github.com/Grom33
 https://github.com/benjchristensen (facebook)
 https://github.com/h-hub
 https://github.com/JakeWharton
+https://github.com/trisberg
+https://github.com/jkschneider
+https://github.com/spencergibb
+https://github.com/datianshi
+https://github.com/joshlong (pivotal)
