@@ -6,3 +6,7 @@ technical-notes
 4. https://github.com/ChamithKodikara
 5. https://github.com/pradeepkrathnayaka
 6. https://github.com/Java-aid
+7. https://github.com/topics/cracking-the-coding-interview
+8. https://github.com/tsrinivas
+https://github.com/dateshaile?tab=repositories
+https://github.com/ajayv14
