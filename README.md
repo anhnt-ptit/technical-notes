@@ -21,3 +21,9 @@ https://github.com/jkschneider
 https://github.com/spencergibb
 https://github.com/datianshi
 https://github.com/joshlong (pivotal)
+https://github.com/patrickcrocker
+https://github.com/anwarchk
+https://github.com/dmfrey
+https://github.com/pivotal-casebook
+https://github.com/alex-slynko
+https://github.com/ddubson
