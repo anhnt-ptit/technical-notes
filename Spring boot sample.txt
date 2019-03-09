@@ -5,3 +5,4 @@ https://github.com/eugenp/tutorials/tree/master/spring-all
 https://github.com/ravivv247/quartz-springboot-mysql-demo
 https://github.com/michl-b/spring-boot-sample-data-jpa-h2
 https://github.com/kolorobot/spring-boot-thymeleaf
+https://github.com/BranislavLazic/spring-thymeleaf-pagination
