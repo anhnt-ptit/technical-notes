@@ -3,3 +3,4 @@ https://github.com/avthart/spring-boot-axon-sample
 https://github.com/jd1/spring-boot-axon
 https://github.com/eugenp/tutorials/tree/master/spring-all
 https://github.com/ravivv247/quartz-springboot-mysql-demo
+https://github.com/michl-b/spring-boot-sample-data-jpa-h2
