@@ -8,3 +8,4 @@ https://github.com/deadcoder0904/interview-ebooks/blob/master/%5BCracking%20the%
 
 https://github.com/AitZaid/TechBookHunter_Free-Coding-Interview-Books/tree/master/book
 https://github.com/Dmdv/Awesome-Full-Stack-Web-Developer
+https://github.com/ameynaik/interview-ebooks
