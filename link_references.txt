@@ -1,2 +1,6 @@
 # Algorithm
 https://github.com/AlgorithmCrackers/Interview-Questions
+https://github.com/AlgorithmCrackers/Data-Structures
+
+#Ebooks
+https://github.com/deadcoder0904/interview-ebooks
